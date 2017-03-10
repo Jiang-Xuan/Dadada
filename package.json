@@ -1,0 +1,23 @@
+{
+  "name": "Dadada",
+  "version": "1.0.0",
+  "description": "分布式记录我的学习进程",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiang-Xuan/Dadada.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiang-Xuan/Dadada/issues"
+  },
+  "homepage": "https://github.com/Jiang-Xuan/Dadada#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
